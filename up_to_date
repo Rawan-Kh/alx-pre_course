@@ -1,1 +1,2 @@
-echo “git pull”> up_to_date  (enter)
+git add up_to_date
+git pull
